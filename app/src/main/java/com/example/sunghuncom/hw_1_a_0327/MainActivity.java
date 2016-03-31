@@ -6,7 +6,7 @@ package com.example.sunghuncom.hw_1_a_0327;
  //  Created by Kwak sunghun on 2016. 3. 27.
  //  Copyright © 2016년 Kwak sunghun. All rights reserved.
  */
-//github test2222
+//github test2222122
 import android.util.Log;
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
